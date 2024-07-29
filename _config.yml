@@ -1,9 +1,9 @@
-include:
-  - _includes/head.html
-
 title: Ryan Coulman 
 logo: /DSCF1011.jpeg
 description: ### Education  BSc Physics, University of Bath, First Class Honours
 theme: jekyll-theme-minimal
+include:
+  - _includes/head.html
+
 
 
