@@ -1,27 +1,27 @@
-# ryancoulman.github.io
-
-
-### Education  
-BSc Physics, University of Bath, First Class Honours
-
-
-### What I Bring:
+### Programming experience: Beginer-Intermediate:
 
 Strong proficiency in [relevant programming languages, e.g., Python, C++, etc.]
 Experience in [mention any specific fields or projects, e.g., data analysis, software development, scientific computing]
 Excellent analytical and problem-solving skills honed through rigorous coursework and research projects
-Ability to work independently and collaboratively in multidisciplinary teams
-🌟 Projects and Experience:
 
-[Project Name]: Brief description of what the project is about, technologies used, and your contributions.
-[Project Name]: Brief description of what the project is about, technologies used, and your contributions.
+## Python 
 
+### Final project at university: Discriminating the light-curves of long and short gamma ray bursts using python 
+explain (indepndent code worked in partner) 
+link to code
+linkt to FYP report 
+Potential to be publsihed 
 
-### Career Goals:
+## Smaller projects
 
-Eager to apply my knowledge and skills in [mention industry or role, e.g., software development, data science, research and development] to contribute to innovative and impactful projects.
-💼 Let's Connect:
+### Snake Game 
 
-[LinkedIn Profile]
-[Personal Website/Portfolio]
-[Email Address]
+### Pong 
+
+## C Language 
+
+### Approximating bessel function solutions using the composite trapezium rule 
+
+### Modelling a n-dimensional random walk on a infinite cartesian grid 
+
+### Modelling a multi-particle 2-dimsional random walk on a finite hetrogenous network 
