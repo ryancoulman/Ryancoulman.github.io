@@ -15,6 +15,7 @@ Potential to be publsihed
 ## Smaller projects
 
 ### Snake Game 
+![Logo](images/snake-game-image.png)
 Check out my [Snake_game](https://github.com/ryancoulman/Snake-Game) for more details.
 
 ### Pong 
