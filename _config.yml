@@ -3,7 +3,19 @@ include:
 
 title: Ryan Coulman 
 logo: /DSCF1011.jpeg
-description: University of Bath graduate with First Class Honours majoring in Physics
+description: ### Education  BSc Physics, University of Bath, First Class Honours
+
+### What I Bring:
+
+Strong proficiency in [relevant programming languages, e.g., Python, C++, etc.]
+Experience in [mention any specific fields or projects, e.g., data analysis, software development, scientific computing]
+Excellent analytical and problem-solving skills honed through rigorous coursework and research projects
+Ability to work independently and collaboratively in multidisciplinary teams
+🌟 Projects and Experience:
+
+[Project Name]: Brief description of what the project is about, technologies used, and your contributions.
+[Project Name]: Brief description of what the project is about, technologies used, and your contributions.
+
 theme: jekyll-theme-minimal
 
 
