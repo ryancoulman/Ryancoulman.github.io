@@ -15,6 +15,7 @@ Potential to be publsihed
 ## Smaller projects
 
 ### Snake Game 
+Check out my [Snake_game](https://github.com/ryancoulman/Snake-Game) for more details.
 
 ### Pong 
 
