@@ -16,7 +16,9 @@ Potential to be publsihed
 
 ## Smaller projects
 
-### Classic Snake Game - <span style="font-size: medium;">Python</span>
+### Classic Snake Game - <small>python</small>
+### Classic Snake Game - <h6>python</h6>
+### Classic Snake Game - <h5>python</h5>
 
 **Overview**
 
