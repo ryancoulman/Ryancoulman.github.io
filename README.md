@@ -6,19 +6,20 @@ Excellent analytical and problem-solving skills honed through rigorous coursewor
 
 ---
 
-### Final project at university: Discriminating the light-curves of long and short gamma ray bursts - `Python`
+### Final project at university: Discriminating the light-curves of long and short gamma ray bursts - <small>Python</small>
 explain (indepndent code worked in partner) 
 link to code
 linkt to FYP report 
 Potential to be publsihed 
 
+View [Discriminating Progenitor Population](https://github.com/ryancoulman/Discriminating-Progenitor-Population-GRBs) for more details.
+
+
 ---
 
 ## Smaller projects
 
-### Classic Snake Game - <small>python</small>
-### Classic Snake Game - <h6>python</h6>
-### Classic Snake Game - <h5>python</h5>
+### Classic Snake Game - <small>Python</small>
 
 **Overview**
 
@@ -34,10 +35,28 @@ Experience the classic Snake arcade game using Python's `turtle` module. This ga
 ![Logo](images/snake-game-image.png)
 View [Snake_game](https://github.com/ryancoulman/Snake-Game) for more details.
 
-### Pong - 'Python
+---
 
-### Approximating bessel function solutions using the composite trapezium rule - 'C'
+### Pong - <small>Python</small>
 
-### Modelling a n-dimensional random walk on a infinite cartesian grid - 'C'
+---
 
-### Modelling a multi-particle 2-dimsional random walk on a finite hetrogenous network - 'C'
+### Approximating bessel function solutions using the composite trapezium rule - <small>C</small>
+
+View [Bessel Function Calculator](https://github.com/ryancoulman/CTR-Bessel-Function-Calculator) for more details.
+
+---
+
+### Modelling a n-dimensional random walk on a infinite cartesian grid - <small>C</small>
+
+
+View [Rand Walk Grid](https://github.com/ryancoulman/d-Dimensional-Random-Walk-Grid) for more details.
+
+
+---
+
+### Modelling a multi-particle 2-dimsional random walk on a finite hetrogenous network - <small>C</small>
+
+View [Rand Walk Network](https://github.com/ryancoulman/2D-Random-Walk-Network) for more details.
+
+---
