@@ -16,7 +16,7 @@ Potential to be publsihed
 
 ## Smaller projects
 
-# Classic Snake Game <small>Version 1.0</small>
+### Classic Snake Game <small>Version 1.0</small>
 
 **Overview**
 
