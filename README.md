@@ -9,6 +9,7 @@ Excellent analytical and problem-solving skills honed through rigorous coursewor
 ### Final project at university: Discriminating the light-curves of long and short gamma ray bursts - <small>Python</small>
 explain (indepndent code worked in partner) 
 link to code
+used unix 
 linkt to FYP report 
 Potential to be publsihed 
 
