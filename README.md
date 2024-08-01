@@ -4,15 +4,19 @@ Strong proficiency in [relevant programming languages, e.g., Python, C++, etc.]
 Experience in [mention any specific fields or projects, e.g., data analysis, software development, scientific computing]
 Excellent analytical and problem-solving skills honed through rigorous coursework and research projects
 
+---
+
 ### Final project at university: Discriminating the light-curves of long and short gamma ray bursts - `Python`
 explain (indepndent code worked in partner) 
 link to code
 linkt to FYP report 
 Potential to be publsihed 
 
+---
+
 ## Smaller projects
 
-### Snake Game - 'C'
+# Classic Snake Game <small>Version 1.0</small>
 
 **Overview**
 
