@@ -4,9 +4,7 @@ Strong proficiency in [relevant programming languages, e.g., Python, C++, etc.]
 Experience in [mention any specific fields or projects, e.g., data analysis, software development, scientific computing]
 Excellent analytical and problem-solving skills honed through rigorous coursework and research projects
 
-## Python 
-
-### Final project at university: Discriminating the light-curves of long and short gamma ray bursts using python 
+### Final project at university: Discriminating the light-curves of long and short gamma ray bursts - `Python`
 explain (indepndent code worked in partner) 
 link to code
 linkt to FYP report 
@@ -14,7 +12,7 @@ Potential to be publsihed
 
 ## Smaller projects
 
-### Snake Game 
+### Snake Game - 'C'
 
 **Overview**
 
@@ -30,12 +28,10 @@ Experience the classic Snake arcade game using Python's `turtle` module. This ga
 ![Logo](images/snake-game-image.png)
 View [Snake_game](https://github.com/ryancoulman/Snake-Game) for more details.
 
-### Pong 
+### Pong - 'Python
 
-## C Language 
+### Approximating bessel function solutions using the composite trapezium rule - 'C'
 
-### Approximating bessel function solutions using the composite trapezium rule 
+### Modelling a n-dimensional random walk on a infinite cartesian grid - 'C'
 
-### Modelling a n-dimensional random walk on a infinite cartesian grid 
-
-### Modelling a multi-particle 2-dimsional random walk on a finite hetrogenous network 
+### Modelling a multi-particle 2-dimsional random walk on a finite hetrogenous network - 'C'
