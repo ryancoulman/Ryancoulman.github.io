@@ -1,8 +1,19 @@
-### Programming experience: Beginer-Intermediate:
+### Programming experience:
 
-Strong proficiency in [relevant programming languages, e.g., Python, C++, etc.]
-Experience in [mention any specific fields or projects, e.g., data analysis, software development, scientific computing]
-Excellent analytical and problem-solving skills honed through rigorous coursework and research projects
+Python: Intermediate
+- Understands and uses functions, error handling, and file I/O effectively.
+- Familiar with object-oriented programming concepts (classes, inheritance).
+- Can work with libraries and frameworks (e.g., requests, pandas).
+
+C: Beginner-Intermediate 
+- Multi-level pointers and dynamic memory allocation.
+- Use of structures
+- Matricies
+- Understands and uses file handling and standard libraries effectively
+
+Basic experience in swift - created a simple BMI, dice rolling, magic 8-ball app 
+
+The projects below are ranked in time taken to complete and thsu correlates iwth their difficulty
 
 ---
 
