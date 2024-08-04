@@ -1,19 +1,19 @@
-### Programming experience:
+### Programming Experience
 
-Python: Intermediate
-- Understands and uses functions, error handling, and file I/O effectively.
-- Familiar with object-oriented programming concepts (classes, inheritance).
-- Can work with libraries and frameworks (e.g., requests, pandas).
+**Python: Intermediate**
+- Proficient in writing and optimizing functions, handling errors, and managing file I/O operations.
+- Solid understanding and use of object-oriented programming (OOP) principles, including classes and inheritance.
+- Experienced with popular libraries and frameworks such as `pandas`, `Numoy`, `Matplotlib` for data manipulation and `requests` for API calls.
 
-C: Beginner-Intermediate 
-- Multi-level pointers and dynamic memory allocation.
-- Use of structures
-- Matricies
-- Understands and uses file handling and standard libraries effectively
+**C: Beginner-Intermediate**
+- Familiar with multi-level pointers and dynamic memory allocation.
+- Capable of implementing and managing matrices and using structures.
+- Competent in file handling and utilising standard C libraries for various tasks.
 
-Basic experience in swift - created a simple BMI, dice rolling, magic 8-ball app 
+**Swift: Basic Experience**
+- Developed simple applications including a BMI calculator, a dice roller, and a Magic 8-Ball app.
 
-The projects below are ranked in time taken to complete and thsu correlates iwth their difficulty
+The projects listed below are ordered by the time taken to complete, which generally reflects their complexity and difficulty.
 
 ---
 
@@ -26,10 +26,40 @@ Potential to be publsihed
 
 View [Discriminating Progenitor Population](https://github.com/ryancoulman/Discriminating-Progenitor-Population-GRBs) for more details.
 
+---
+
+### Modelling a d-dimensional random walk on a infinite cartesian grid - <small>C</small>
+
+**Random Walk Simulation**
+
+This project implements a random walk simulation in multiple cartesian dimensions using C. The code demonstrates proficiency in several fundamental programming concepts, including dynamic memory allocation, use of structs, file I/O, and modular code organization.
+This project was part of my final year module 'Programming' and received a mark of 88%. Please see `code_report.pdf` to see extensive testing of the programs capabilities and an explanation of the approach involved.   
+
+**Features**
+
+- **Multi-Dimensional Random Walk:** Simulates random walks in configurable dimensions and grid sizes.
+- **High-Performance Computation:** Efficiently handles large-scale simulations using dynamically allocated memory.
+- **Data Output:** Outputs the results of simulations to CSV files for further analysis.
+
+**Key Concepts Demonstrated**
+
+- **Dynamic Memory Allocation:** Utilises `malloc`, `realloc` and `free` to manage memory for simulation structures.
+- **Pointers:** Accesses and amends main() defined variables within functions using pointers.
+- **Structs:** Defines and manipulates complex data structures to represent the state of the random walk.
+- **File I/O:** Writes simulation results to CSV files for visualization and analysis.
+- **Random Number Generation:** Uses random functions to simulate the movement of particles in the grid.
+
+![Logo](images/rand_walk_grid_4d.png)
+caption
+View [Rand Walk Grid](https://github.com/ryancoulman/d-Dimensional-Random-Walk-Grid) for more details.
 
 ---
 
-## Smaller projects
+### Modelling a multi-particle 2-dimsional random walk on a finite hetrogenous network - <small>C</small>
+
+View [Rand Walk Network](https://github.com/ryancoulman/2D-Random-Walk-Network) for more details.
+
+---
 
 ### Classic Snake Game - <small>Python</small>
 
@@ -47,28 +77,10 @@ Experience the classic Snake arcade game using Python's `turtle` module. This ga
 ![Logo](images/snake-game-image.png)
 View [Snake_game](https://github.com/ryancoulman/Snake-Game) for more details.
 
----
-
-### Pong - <small>Python</small>
-
----
-
 ### Approximating bessel function solutions using the composite trapezium rule - <small>C</small>
 
 View [Bessel Function Calculator](https://github.com/ryancoulman/CTR-Bessel-Function-Calculator) for more details.
 
 ---
 
-### Modelling a n-dimensional random walk on a infinite cartesian grid - <small>C</small>
-
-
-View [Rand Walk Grid](https://github.com/ryancoulman/d-Dimensional-Random-Walk-Grid) for more details.
-
-
----
-
-### Modelling a multi-particle 2-dimsional random walk on a finite hetrogenous network - <small>C</small>
-
-View [Rand Walk Network](https://github.com/ryancoulman/2D-Random-Walk-Network) for more details.
-
----
+### Pong - <small>Python</small>
