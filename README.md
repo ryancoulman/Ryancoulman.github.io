@@ -1,4 +1,4 @@
-### Programming Experience
+## Programming Experience
 
 **Python: Intermediate**
 - Proficient in writing and optimizing functions, handling errors, and managing file I/O operations.
@@ -17,7 +17,7 @@ The projects listed below are ordered by the time taken to complete, which gener
 
 ---
 
-### Final project at university: Discriminating the light-curves of long and short gamma ray bursts - <small>Python</small>
+## Final project at university: Discriminating the light-curves of long and short gamma ray bursts - <small>Python</small>
 explain (indepndent code worked in partner) 
 link to code
 used unix 
@@ -28,7 +28,7 @@ View [Discriminating Progenitor Population](https://github.com/ryancoulman/Discr
 
 ---
 
-### Modelling a d-dimensional random walk on a infinite cartesian grid - <small>C</small>
+## Modelling a d-dimensional random walk on a infinite cartesian grid - <small>C</small>
 
 **Random Walk Simulation**
 
@@ -55,13 +55,13 @@ View [Rand Walk Grid](https://github.com/ryancoulman/d-Dimensional-Random-Walk-G
 
 ---
 
-### Modelling a multi-particle 2-dimsional random walk on a finite hetrogenous network - <small>C</small>
+## Modelling a multi-particle 2-dimsional random walk on a finite hetrogenous network - <small>C</small>
 
 View [Rand Walk Network](https://github.com/ryancoulman/2D-Random-Walk-Network) for more details.
 
 ---
 
-### Classic Snake Game - <small>Python</small>
+## Classic Snake Game - <small>Python</small>
 
 **Overview**
 
@@ -77,10 +77,10 @@ Experience the classic Snake arcade game using Python's `turtle` module. This ga
 ![Logo](images/snake-game-image.png)
 View [Snake_game](https://github.com/ryancoulman/Snake-Game) for more details.
 
-### Approximating bessel function solutions using the composite trapezium rule - <small>C</small>
+## Approximating bessel function solutions using the composite trapezium rule - <small>C</small>
 
 View [Bessel Function Calculator](https://github.com/ryancoulman/CTR-Bessel-Function-Calculator) for more details.
 
 ---
 
-### Pong - <small>Python</small>
+## Pong - <small>Python</small>
