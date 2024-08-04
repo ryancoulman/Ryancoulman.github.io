@@ -11,7 +11,7 @@
 - Competent in file handling and utilising standard C libraries for various tasks.
 
 **Swift: Basic Experience**
-- Developed simple applications including a BMI calculator, a dice roller, and a Magic 8-Ball app.
+- Developed simple IOS applications including a BMI calculator, a dice roller, and a Magic 8-Ball app.
 
 The projects listed below are ordered by the time taken to complete, which generally reflects their complexity and difficulty.
 
