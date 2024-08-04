@@ -50,7 +50,8 @@ This project was part of my final year module 'Programming' and received a mark 
 - **Random Number Generation:** Uses random functions to simulate the movement of particles in the grid.
 
 ![Logo](images/rand_walk_grid_4d.png)
-caption
+*Decreased scaling of I ̄ with N in 1D (red), 2D (blue), 3D (green), 4D (yellow).*
+
 View [Rand Walk Grid](https://github.com/ryancoulman/d-Dimensional-Random-Walk-Grid) for more details.
 
 ---
