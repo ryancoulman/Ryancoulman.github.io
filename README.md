@@ -100,6 +100,7 @@ Experience the classic Snake arcade game using Python's `turtle` module. This ga
 - *Continuous Movement:* The snake moves continuously, adding to the challenge.
 
 ![Logo](images/snake-game-image.png)
+
 View [Snake_game](https://github.com/ryancoulman/Snake-Game) for more details.
 
 ---
@@ -131,7 +132,7 @@ in C, using the composite trapezium rule (CTR) to approximate the integral. This
 - **Efficiency Optimization:** Once calcuated, samples the Bessel function at varied m and x values using a smaller N to verify the precision to the number of decimal places rquested by the user, improving computational efficiency by reducing N when possible if the output is unchanged.
 
 
-![Logo](images/bessel_func_table.png)
+![Logo](images/bessel_function_table.png)
 
 View [Bessel Function Calculator](https://github.com/ryancoulman/CTR-Bessel-Function-Calculator) for more details.
 
