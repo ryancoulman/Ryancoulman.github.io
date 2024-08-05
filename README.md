@@ -30,7 +30,7 @@ View [Discriminating Progenitor Population](https://github.com/ryancoulman/Discr
 
 ## Modelling a d-dimensional random walk on a infinite cartesian grid - <small>C</small>
 
-**Random Walk Simulation**
+**Overview**
 
 This project implements a random walk simulation in multiple cartesian dimensions using C. The code demonstrates proficiency in several fundamental programming concepts, including dynamic memory allocation, use of structs, file I/O, and modular code organization.
 This project was part of my final year module 'Programming' and received a mark of 88%. Please see `code_report.pdf` to see extensive testing of the programs capabilities and an explanation of the approach involved.   
@@ -58,21 +58,21 @@ View [Rand Walk Grid](https://github.com/ryancoulman/d-Dimensional-Random-Walk-G
 
 ## Modelling a multi-particle 2-dimsional random walk on a finite hetrogenous network - <small>C</small>
 
-# Random Walk Network Simulation
+**Overview**
 
-This project implements a random walk simulation on a network using C. It demonstrates proficiency in several key programming concepts including dynamic memory allocation, use of structs, file I/O, and modular code organization. The random walk is simualted upon the network below with a dynamic number of components and nodes within each. 
+This project builds upon the foundation of the random walk project above. It demonstrates proficiency in several key programming concepts including dynamic memory allocation, use of structs, file I/O, and modular code organization. The random walk is simualted upon the network below with a dynamic number of components and nodes within each. 
 
-![Logo](image/network.png)
+![Logo](images/rand_walk_network.png)
 
 This project was part of my final year module 'Programming' and received a mark of 88%. Please see `code_report.pdf` to see extensive testing of the programme's capabilities and an explanation of the approach involved.  
  
-## Features
+**Features**
 
 - **Multi-Particle Random Walk:** Simulates a multi-particle random walk using an array of 'particle' structs. 
 - **High-Performance Computation:** Efficiently handles large-scale simulations using dynamically allocated memory.
 - **Data Output:** Outputs the results of simulations to CSV files for further analysis.
 
-## Key Concepts Demonstrated
+**Key Concepts Demonstrated**
 
 - **Dynamic Memory Allocation:** Utilizes `malloc` and `free` to manage memory for simulation structures.
 - **multi-level pointers:** Accesses and amends main() defined variables within functions using pointers, as well as defining pointers to pointers to dynamically allocate memory for matricies.
@@ -80,6 +80,7 @@ This project was part of my final year module 'Programming' and received a mark 
 - **File I/O:** Writes simulation results to CSV files for visualization and analysis.
 - **Random Number Generation:** Uses random functions to simulate the movement of particles in the network.
 
+![Logo](images/rand_walk_network_A_B_var.png)
 
 View [Rand Walk Network](https://github.com/ryancoulman/2D-Random-Walk-Network) for more details.
 
@@ -101,7 +102,36 @@ Experience the classic Snake arcade game using Python's `turtle` module. This ga
 ![Logo](images/snake-game-image.png)
 View [Snake_game](https://github.com/ryancoulman/Snake-Game) for more details.
 
+---
+
 ## Approximating bessel function solutions using the composite trapezium rule - <small>C</small>
+
+**Overview**
+
+This project aims to implicitly solve a simplified form of the Bessel function, 
+
+$$
+J_{m}(x) = \frac{1}{\pi}\int_{0}^{\pi} \text{cos}(m \theta - x \text{sin} \theta) \ d \theta,
+$$
+
+in C, using the composite trapezium rule (CTR) to approximate the integral. This demonstrates proficiency in mathematical computations, numerical methods, and efficient data handling. The calculator computes Bessel functions of the first kind for various orders and outputs the results in a neatly formated text file.
+
+**Features**
+
+- **Bessel Function Computation:** Calculates Bessel functions of the first kind $J_{m}(x)$ for orders $m = 0$ to $m = 9$.
+- **High-Precision Output:** Generates high-precision values suitable for scientific and engineering applications.
+- **Tabular Data Output:** Outputs results in a tabular format for easy analysis and interpretation.
+
+**Key Concepts Demonstrated**
+
+- **C Programming:** Utilises functional C programming for mathematical calculations.
+- **Numerical Methods:** Implements the CTR to approximate the integral to a high degree of accuracy using $N = 10,000$ sub-intervals.
+- **File Handling:** Efficiently manages output large dataset operations to a .txt file.
+- **Algorithm Implementation:** Develops efficient algorithms to perform complex mathematical computations.
+- **Efficiency Optimization:** Once calcuated, samples the Bessel function at varied m and x values using a smaller N to verify the precision to the number of decimal places rquested by the user, improving computational efficiency by reducing N when possible if the output is unchanged.
+
+
+![Logo](images/bessel_func_table.png)
 
 View [Bessel Function Calculator](https://github.com/ryancoulman/CTR-Bessel-Function-Calculator) for more details.
 
