@@ -58,6 +58,29 @@ View [Rand Walk Grid](https://github.com/ryancoulman/d-Dimensional-Random-Walk-G
 
 ## Modelling a multi-particle 2-dimsional random walk on a finite hetrogenous network - <small>C</small>
 
+# Random Walk Network Simulation
+
+This project implements a random walk simulation on a network using C. It demonstrates proficiency in several key programming concepts including dynamic memory allocation, use of structs, file I/O, and modular code organization. The random walk is simualted upon the network below with a dynamic number of components and nodes within each. 
+
+![Logo](image/network.png)
+
+This project was part of my final year module 'Programming' and received a mark of 88%. Please see `code_report.pdf` to see extensive testing of the programme's capabilities and an explanation of the approach involved.  
+ 
+## Features
+
+- **Multi-Particle Random Walk:** Simulates a multi-particle random walk using an array of 'particle' structs. 
+- **High-Performance Computation:** Efficiently handles large-scale simulations using dynamically allocated memory.
+- **Data Output:** Outputs the results of simulations to CSV files for further analysis.
+
+## Key Concepts Demonstrated
+
+- **Dynamic Memory Allocation:** Utilizes `malloc` and `free` to manage memory for simulation structures.
+- **multi-level pointers:** Accesses and amends main() defined variables within functions using pointers, as well as defining pointers to pointers to dynamically allocate memory for matricies.
+- **Structs:** Defines and manipulates complex data structures to represent the state of the random walk and the numerous particles.
+- **File I/O:** Writes simulation results to CSV files for visualization and analysis.
+- **Random Number Generation:** Uses random functions to simulate the movement of particles in the network.
+
+
 View [Rand Walk Network](https://github.com/ryancoulman/2D-Random-Walk-Network) for more details.
 
 ---
