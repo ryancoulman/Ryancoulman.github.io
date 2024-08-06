@@ -18,13 +18,51 @@ The projects listed below are ordered by the time taken to complete, which gener
 ---
 
 ## Final project at university: Discriminating the light-curves of long and short gamma ray bursts - <small>Python</small>
-explain (indepndent code worked in partner) 
-link to code
-used unix 
-linkt to FYP report 
-Potential to be publsihed 
 
-View [Discriminating Progenitor Population](https://github.com/ryancoulman/Discriminating-Progenitor-Population-GRBs) for more details.
+# Overview
+
+The aim of my final year university project was to computationally classify the progenitor population of long and short gamma-ray bursts (GRBs) using their lightcurve (LC) alone. This involved developing a pipeline that leverages data analysis libraries in Python to process and analyse GRB data.
+
+I used `pandas` dataframes to store the LC flux data in order to compute a mathmatical function termed a Haar scalorgarm,
+
+$$
+\sigma_{\Delta t}^{2} = \frac{\Delta t}{t}\sum\limits_{i=0}^{t/2\Delta t -1}h^{2}_{i, \Delta t},
+$$
+
+given,
+
+$$
+h_{i, \Delta t} = \overline{X}_{2i+1, \Delta t} - \overline{X} _{2i, \Delta t},
+$$
+
+and where $\overline{X}$ is the average natural logarithm of the flux over ∆t consecutive bins, $X$. From this I used `numpy` to fit an $n^{th}$ order polynomial to the data, which typically follows a sigmoidal function, and determined its first derivative maximum between the local minima and maxima to define the minimum variable timescale (MVT) of interest. Short of identifying the best fit polynomial visually, I set up a fully automatic pipeline to compute the MVT of around 100 GRBs.  
+
+The early work analysing the MVT presented in this project provides a promising avenue for discriminating the progenitor source of GRBs, and is currently undergoing further validation for potential publication. This project also received a mark of 80% and you may read the full report titled `Report.pdf`. 
+
+## Key Concepts Demonstrated
+
+- **Data Manipulation with Pandas:** Utilises pandas for efficient handling, filtering, and transformation of large datasets (up to 1 million rows).
+- **UNIX Command-Line Tools:** Frequent use of UNIX commands to download GRBs and implemented a Bash script to automate the process for a array of GRB names. 
+- **Scientific Computing with NumPy:** Employs NumPy for numerical calculations, array operations, and fitting of polynomials.
+- **Matplotlib for Data Visualization:**  Uses Matplotlib extensively for plotting data.
+- **Parallel Processing:** Implements joblib's Parallel library for parallel computations, significantly reducing processing time.
+- **File Handling and OS Operations:** Deploys the `os` module for handling file operations and navigating the file system.
+- **Web Scraping with BeautifulSoup:** Uses requests and BeautifulSoup for extracting data from the *Swift* database to automatuically extract the duration of a given GRB 
+- **Polynomial Fitting and Derivatives:** Fits polynomial models to data and analyzes their derivatives to find critical points.
+- **Error Propagation:** Calculates and includes error propagation in Haar Scalogram calculations.
+- **Data Export:** Manages data export to csv, txt, and xlsx files for later use or analysis.
+- **Statistical Analysis:** Conducts statistical analysis of findings using the spearmanr class from `SciPy`
+- **Astropy:** Uses Astropy for handling FITS files and performing specific astronomical calculations.
+
+  
+## Results
+
+I found that short-duration bursts have a much smaller precursor (gamma burst preceding the main emmsion) MVT on average than their long-duration counterparts, and importantly, find a strong coupling of the anomalous GRBs (green) with the former. Therefore providing a way to potentially differentiate the two progenitor sources where precursors are available. The plot below shows how one may seperate potential merger orginating bursts (blue) from collapsar dependent ones (red). 
+
+![Tpre_MVT_vs_T90_MVT](images/FYP_Tpre_MVT_vs_T90_MVT.png)
+
+
+View [Discriminating Progenitor Population](https://github.com/ryancoulman/Discriminating-Progenitor-Population-GRBs) for more details or read the [full report](https://github.com/ryancoulman/Discriminating-Progenitor-Population-GRBs/blob/main/Report.pdf).
 
 ---
 
