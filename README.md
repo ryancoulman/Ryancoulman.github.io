@@ -142,7 +142,7 @@ View [Rand Walk Network](https://github.com/ryancoulman/2D-Random-Walk-Network) 
 
 ---
 
-## Classic Snake Game
+## Classic Snake Game - *Python*
 
 Experience the classic Snake arcade game using Python's `turtle` module. This game allows you to relive the nostalgia of the arcade with a simple yet engaging implementation. The game records and stores your high score in a text file, updating it whenever you achieve a new high score. Control the snake using the keyboard arrows and try to beat your own high score!
 
@@ -166,7 +166,7 @@ View [Snake_game](https://github.com/ryancoulman/Snake-Game) on GitHub.
 
 ---
 
-## Approximating bessel function solutions using the composite trapezium rule - <small>C</small>
+## Approximating bessel function solutions using the composite trapezium rule - *C*
 
 **Overview**
 
