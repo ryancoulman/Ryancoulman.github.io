@@ -2,27 +2,26 @@
   src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
 </script>
 
-
 ## Programming Experience
 
 **Python: Intermediate**
-- Proficient in writing and optimizing functions, handling errors, and managing file I/O operations.
+- Confident in writing and optimizing functions, handling errors, and managing file I/O operations.
 - Solid understanding and use of object-oriented programming (OOP) principles, including classes and inheritance.
 - Experienced with popular libraries and frameworks such as `pandas`, `Numoy`, `Matplotlib` for data manipulation and `requests` for API calls.
 
 **C: Beginner-Intermediate**
 - Familiar with multi-level pointers and dynamic memory allocation.
-- Capable of implementing and managing matrices and using structures.
+- Capable of implementing and managing structures, as well as multi-dimensional arrays.
 - Competent in file handling and utilising standard C libraries for various tasks.
 
 **Swift: Basic Experience**
-- Developed simple IOS applications including a BMI calculator, a dice roller, and a Magic 8-Ball app.
+- Developed simple IOS applications including a BMI calculator, a dice roller, and a quiz app.
 
 The projects listed below are ordered by the time taken to complete, which generally reflects their complexity and difficulty.
 
 ---
 
-## Final project at university: Discriminating the light-curves of long and short gamma ray bursts - <small>Python</small>
+## Final project at university: Discriminating the light-curves of long and short gamma ray bursts - *Python*
 
 # Overview
 
@@ -71,7 +70,7 @@ View [Discriminating Progenitor Population](https://github.com/ryancoulman/Discr
 
 ---
 
-## Modelling a d-dimensional random walk on a infinite cartesian grid - <small>C</small>
+## Modelling a d-dimensional random walk on a infinite cartesian grid - *C*
 
 **Overview**
 
@@ -99,8 +98,7 @@ View [Rand Walk Grid](https://github.com/ryancoulman/d-Dimensional-Random-Walk-G
 
 ---
 
-## Modelling a multi-particle 2-dimsional random walk on a finite hetrogenous network - <small>C</small>
-
+## Modelling a multi-particle 2-dimsional random walk on a finite hetrogenous network - *C*
 **Overview**
 
 This project builds upon the foundation of the random walk project above. It demonstrates proficiency in several key programming concepts including dynamic memory allocation, use of structs, file I/O, and modular code organization. The random walk is simualted upon the network below with a dynamic number of components and nodes within each. 
@@ -129,7 +127,7 @@ View [Rand Walk Network](https://github.com/ryancoulman/2D-Random-Walk-Network) 
 
 ---
 
-## Classic Snake Game - <small>Python</small>
+## Classic Snake Game - *Python*
 
 **Overview**
 
